@@ -1,0 +1,61 @@
+﻿name,value,year,rank
+Influenza and Pneumonia,297.5,1900,1
+Influenza and Pneumonia,312.9,1901,1
+Heart Disease,285.2,1902,1
+Heart Disease,304.5,1903,1
+Heart Disease,331.5,1904,1
+Heart Disease,327.8,1905,1
+Heart Disease,325.5,1906,1
+Heart Disease,356.5,1907,1
+Heart Disease,328.6,1908,1
+Heart Disease,329.2,1909,1
+Heart Disease,345.1,1910,1
+Heart Disease,410.3,1923,1
+Heart Disease,265.4,1900,2
+Heart Disease,272.6,1901,2
+Stroke,237.8,1902,2
+Influenza and Pneumonia,251.1,1903,2
+Influenza and Pneumonia,291.2,1904,2
+Influenza and Pneumonia,257.8,1905,2
+Stroke,245.9,1906,2
+Influenza and Pneumonia,285.4,1907,2
+Stroke,239,1908,2
+Stroke,237.5,1909,2
+Stroke,238.5,1910,2
+Influenza and Pneumonia,253,1923,2
+Stroke,244.2,1900,3
+Stroke,243.6,1901,3
+Influenza and Pneumonia,219.3,1902,3
+Stroke,244.6,1903,3
+Stroke,255.2,1904,3
+Stroke,247.3,1905,3
+Influenza and Pneumonia,222.5,1906,3
+Stroke,261.8,1907,3
+Influenza and Pneumonia,234.6,1908,3
+Influenza and Pneumonia,221.2,1909,3
+Influenza and Pneumonia,238.4,1910,3
+Stroke,245.6,1923,3
+Cancer,125.2,1903,4
+Cancer,138.1,1909,4
+Cancer,133,1907,4
+Cancer,134.5,1908,4
+Cancer,128.8,1906,4
+Cancer,119.7,1902,4
+Cancer,127.9,1904,4
+Cancer,114.8,1900,4
+Accidents,122.3,1907,5
+Accidents,106.9,1903,5
+Cancer,143.1,1910,4
+Accidents,111.2,1910,5
+Cancer,118.1,1901,4
+Cancer,132.5,1905,4
+Accidents,108.8,1908,5
+Cancer,168.8,1923,4
+Accidents,109.3,1901,5
+Accidents,112.8,1904,5
+Accidents,90.3,1900,5
+Accidents,121.2,1906,5
+Accidents,91.2,1923,5
+Accidents,108.5,1905,5
+Accidents,108,1909,5
+Accidents,93.6,1902,5
